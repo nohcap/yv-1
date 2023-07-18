@@ -5,5 +5,5 @@ val: images/val  # val images (relative to 'path')
 test:  # test images (optional)
 
 # Classes
-nc: 1  # number of classes
-names: ['fruit']  # class names
+nc: 3  # number of classes
+names: ['zebra''tiger''car']  # class names
