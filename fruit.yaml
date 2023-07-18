@@ -6,4 +6,4 @@ test:  # test images (optional)
 
 # Classes
 nc: 3  # number of classes
-names: ['zebra''tiger''car']  # class names
+names: ['zebra', 'tiger', 'car']  # class names
