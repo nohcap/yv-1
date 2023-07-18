@@ -9,7 +9,7 @@ WEBDAV_URL="$1"
 USERNAME="$2"
 PASSWORD="$3"
 
-LOCAL_DIR="/kaggle/working/dddd_trainer/projects/ocr1/models"
+LOCAL_DIR="/kaggle/working/yolov5/runs"
 
 # 创建当前时间戳文件夹名称
 TIMESTAMP=$(date +"%Y%m%d-%H%M%S")
