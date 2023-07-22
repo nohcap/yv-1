@@ -1,9 +1,9 @@
 #!/bin/bash
 
 LOCAL_DIR="/kaggle/working/dddd_trainer/projects/ocr1/models"
-WEBDAV_URL="https://wani.teracloud.jp/dav"
-USERNAME="dawda"
-PASSWORD="DpS5H3jzA9VxF8hr"
+WEBDAV_URL="https://.teracloud.jp/dav"
+USERNAME=""
+PASSWORD=""
 
 # 创建当前时间戳文件夹名称
 TIMESTAMP=$(date +"%Y%m%d-%H%M%S")
